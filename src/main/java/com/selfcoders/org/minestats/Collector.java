@@ -6,7 +6,6 @@ import org.influxdb.InfluxDB;
 import org.influxdb.dto.Point;
 
 import java.util.concurrent.TimeUnit;
-import java.util.logging.Logger;
 
 public class Collector implements Runnable {
     private final InfluxDB influxDB;
