@@ -1,0 +1,7 @@
+influxdb:
+  url: http://localhost:8086
+  username: minecraft
+  password: minecraft
+  database: minecraft
+
+interval: 1200
