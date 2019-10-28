@@ -4,3 +4,11 @@ description: '${project.description}'
 author: Programie
 website: ${project.url}
 main: com.selfcoders.org.minestats.MineStats
+commands:
+  stats:
+    description: 'Show current levels and highscore'
+    permission: minestats.stats
+permissions:
+  minestats.stats:
+    description: 'Allow to show current levels and highscore'
+    default: true
