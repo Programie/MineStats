@@ -26,7 +26,6 @@ public final class MineStats extends JavaPlugin {
 
         influxDB = InfluxDBFactory.connect(influxDbConfig.getString("url"), influxDbConfig.getString("username"), influxDbConfig.getString("password"));
         influxDB.setDatabase(influxDbConfig.getString("database"));
-        influxDB.enableBatch();
 
         long interval = config.getLong("interval", 1200);
 
