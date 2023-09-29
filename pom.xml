@@ -15,7 +15,12 @@
 
   <name>MineStats</name>
   <description>Send statistics to InfluxDB</description>
-  <url>https://gitlab.com/Programie/MineStats</url>
+  <url>https://github.com/Programie/MineStats</url>
+
+  <scm>
+    <developerConnection>scm:git:ssh://git@github.com/Programie/MineStats.git</developerConnection>
+    <tag>HEAD</tag>
+  </scm>
 
   <properties>
     <bukkit-api-version>1.12.2</bukkit-api-version>

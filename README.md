@@ -2,8 +2,9 @@
 
 A Minecraft Bukkit plugin which sends statistics to InfluxDB.
 
-[![pipeline status](https://gitlab.com/Programie/MineStats/badges/master/pipeline.svg)](https://gitlab.com/Programie/MineStats/commits/master)
-[![download from GitLab](https://img.shields.io/badge/download-Releases-blue?logo=gitlab)](https://gitlab.com/Programie/MineStats/-/releases)
+[![actions status](https://github.com/Programie/MineStats/actions/workflows/build.yml/badge.svg)](https://github.com/Programie/MineStats/actions/workflows/build.yml)
+[![download from GitHub](https://img.shields.io/badge/download-Releases-blue?logo=github)](https://github.com/Programie/MineStats/releases/latest)
+[![view on Website](https://img.shields.io/badge/view-Website-blue)](https://selfcoders.com/projects/minestats)
 
 ## Build
 
